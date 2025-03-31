@@ -1,6 +1,6 @@
 # Banker's Algorithm
-# CECS 326 Project 3
-## Instructions
+## CECS 326 Project 3
+### Instructions
 We will be using our VS Code terminal to to run this code. Please make sure you have python3 installed on your machine.
 This also requires to make sure you have python installed on VS Code. 
 Once python is installed and you have "BankersAlgorithm" downloaded you can simply run the code by clicking the button up top which says 
